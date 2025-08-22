@@ -1,6 +1,6 @@
-                                                                📋 Project: Event Services Booking Platform
+                                                            📋 Project: Event Services Booking Platform
 
-                                                                        🎯 Role: Frontend Developer
+                                                                     🎯 Role: Frontend Developer
 
 EventSpace – Event Services Booking Platform
 
