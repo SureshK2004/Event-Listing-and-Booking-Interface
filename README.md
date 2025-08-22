@@ -1,10 +1,9 @@
-                                                            📋 Project: Event Services Booking Platform
-
-                                                                     🎯 Role: Frontend Developer
-
 EventSpace – Event Services Booking Platform
 
 EventSpace is a comprehensive event services booking web application, designed for event planners and service seekers. It provides an intuitive, responsive platform to discover, explore, and book event-related services efficiently.
+
+📋 Project: Event Services Booking Platform
+🎯 Role: Frontend Developer
 
 # Table of Contents
 
@@ -29,6 +28,10 @@ EventSpace is a comprehensive event services booking web application, designed f
     • Search Functionality: Debounced search for performance
     • Error Handling: Graceful error and loading states
 
+# Demo
+
+Add a link
+ * live demo here (https://eventservicebookingplatform.vercel.app/).
 
 
 # Installation
@@ -143,3 +146,5 @@ Name: Suresh K
 Email: sureshksureshk04@gmail.com
 
 GitHub: EventSpace Repository-("https://github.com/SureshK2004/Event-Listing-and-Booking-Interface")
+
+Live Link : https://eventservicebookingplatform.vercel.app/
