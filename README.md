@@ -1,3 +1,7 @@
+                                                                📋 Project: Event Services Booking Platform
+
+                                                                        🎯 Role: Frontend Developer
+
 EventSpace – Event Services Booking Platform
 
 EventSpace is a comprehensive event services booking web application, designed for event planners and service seekers. It provides an intuitive, responsive platform to discover, explore, and book event-related services efficiently.
